@@ -1,2 +1,8 @@
 node_modules
 package-lock.json
+bin/cert.csr
+bin/cert.pem
+bin/certificate.pem
+bin/domain.csr
+bin/domain.key
+bin/private.key
